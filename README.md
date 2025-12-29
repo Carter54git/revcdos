@@ -1,4 +1,4 @@
-# revcdos
+# revcDOS
 
 [revcDOS](https://dos.zone/revcdos) is a browser port of reVC created by the DOS.Zone Team. It was previously an exclusive game hosted on the DOS.Zone website; however, after receiving a DMCA request from EBRAND, we decided to make the binaries public. You may now host it locally or on your own website, but you must follow these requirements:
 
