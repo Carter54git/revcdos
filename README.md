@@ -13,8 +13,6 @@ The game consist of 2 parts:
 
 You can download binaries from Releases section of this repository.
 
-Here is a corrected and polished version:
-
 The binary distribution contains:
 
 * `game.js` — the game module launcher
