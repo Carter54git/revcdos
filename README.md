@@ -124,6 +124,8 @@ Both steps are controlled in `game.js`:
 
 That’s it!
 
+**NOTE:** `preload_files.list` can contains duplicate entries
+
 ## Need help?
 
 Feel free to ask in our [TG Channel](https://t.me/gamebase54) or create an issue.
