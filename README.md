@@ -107,6 +107,8 @@ docker run --rm \
 
 Now that you have compatible data, you need to serve the binary folder and open `host.html` in your browser. Then select the folder containing the compatible resources, and it should work.
 
+**You should select vc-assets folder**
+
 ## Deploing on a website
 
 revcDOS is a completely asynchronous game. From time to time, it will request additional files as they are needed. Therefore, deploying it on a website requires two steps:
