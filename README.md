@@ -7,8 +7,8 @@
 * You must keep the cloud save functionality enabled.
 * You must keep the logo in the menu (Vice City by DOS.Zone Team).
 
-The game consist of 2 parts:
-* 1st binaries it self
+The game consists of 2 parts:
+* 1st binaries itself
 * 2nd compatible data
 
 You can download binaries from Releases section of this repository.
@@ -95,7 +95,7 @@ docker run --rm \
    - `.raw` files: Processed and converted to MP3
    - Other files: Copied as-is
 
-5. **Output**: After processing, the script creates a `output.zip` archive in the ouput folder, with contents of generated data.
+5. **Output**: After processing, the script creates a `output.zip` archive in the output folder, with contents of generated data.
 
 ### Troubleshooting
 
@@ -109,7 +109,7 @@ Now that you have compatible data, you need to serve the binary folder and open 
 
 **You should select vc-assets folder**
 
-## Deploing on a website
+## Deploying on a website
 
 revcDOS is a completely asynchronous game. From time to time, it will request additional files as they are needed. Therefore, deploying it on a website requires two steps:
 
@@ -124,7 +124,7 @@ Both steps are controlled in `game.js`:
 
 That’s it!
 
-**NOTE:** `preload_files.list` can contains duplicate entries
+**NOTE:** `preload_files.list` can contain duplicate entries
 
 ## Need help?
 
